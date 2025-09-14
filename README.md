@@ -1,44 +1,46 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <strong>alimp</strong></h1>
+<h1 align="center">🖤 Hey, I'm <strong>alimp</strong></h1>
 <p align="center">Computer Engineering Student · Backend Developer · AI Enthusiast</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Computer Engineering student from **Sari, Mazandaran, Iran**  
-💡 Passionate about **backend development, AI, and building software that solves real-world problems**  
-🌱 Currently sharpening my **Laravel skills** & preparing for **Go** and **Python**  
+I'm **Ali Mohammadpour**, a Computer Engineering student from **Sari, Mazandaran, Iran**.  
+I love crafting **backend systems, AI-driven solutions, and software that powers businesses & services**.  
+Currently leveling up my **Laravel skills** and exploring **Go** & **Python** for backend performance.  
 
 ---
 
 ## 🖥 Languages
+
 <p align="center">
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ED8B00"/>
 </p>
 
 ---
 
 ## ⚙️ Technologies & Tools
+
 <p align="center">
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
@@ -46,30 +48,28 @@
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/alimp/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-1&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-1&theme=tokyonight" />
   </a>
   <a href="https://github.com/alimp/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-2&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-2&theme=tokyonight" />
   </a>
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alimp&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alimp&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=alimp&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimp&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/your-handle"><img height="30" src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com"><img height="30" src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
 ---
@@ -77,3 +77,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alimp&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
+
