@@ -48,11 +48,11 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 
 ## 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/alimp/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-1&theme=tokyonight" />
+  <a href="https://github.com/alimp/meymed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=meymed&theme=tokyonight" />
   </a>
-  <a href="https://github.com/alimp/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimp&repo=project-2&theme=tokyonight" />
+  <a href="https://github.com/alimp/ageCalculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=ageCalculator&theme=tokyonight" />
   </a>
 </p>
 
