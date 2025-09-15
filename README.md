@@ -69,9 +69,9 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
   <img src="https://github-readme-stats.vercel.app/api?username=alimhmdpur&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
 <br/>
 
-  <img alt="alimhmdpur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=alimhmdpur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="alimhmdpur's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=alimhmdpur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=FFFFFF&icon_color=FFFFFF" height="192px"/>
 
-<img alt="alimhmdpur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+<img alt="alimhmdpur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=FFFFFF&icon_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
 ---
