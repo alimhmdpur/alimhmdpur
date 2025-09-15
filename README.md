@@ -53,10 +53,10 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 
 <p align="center">
   <a href="https://github.com/alimp/meymed">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=meymed&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=meymed&theme=tokyonight&bg_color=1F222E&title_color=FFFFFF&icon_color=FFFFFF" />
   </a>
   <a href="https://github.com/alimp/ageCalculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=ageCalculator&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=ageCalculator&theme=tokyonight&bg_color=1F222E&title_color=FFFFFF&icon_color=FFFFFF" />
   </a>
 </p>
 
