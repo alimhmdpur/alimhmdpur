@@ -60,8 +60,8 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alimp&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimhmdpur&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
