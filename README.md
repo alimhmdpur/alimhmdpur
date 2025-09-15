@@ -68,13 +68,13 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/ali-mhmdpur-73a428269">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://t.me/your-telegram">
+  <a href="https://t.me/ali_mhmdpur">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:alimhmdpuremail@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
