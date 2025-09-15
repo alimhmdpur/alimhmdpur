@@ -9,13 +9,15 @@
 ---
 
 ## 🚀 About Me
+
 I'm **Ali Mohammadpour**, a Computer Engineering student from **Sari, Mazandaran, Iran**.  
 I love crafting **backend systems, AI-driven solutions, and software that powers businesses & services**.  
-Currently leveling up my **Laravel skills** and exploring **Go** & **Python** for backend performance.  
+Currently leveling up my **Laravel skills** and exploring **Go** & **Python** for backend performance.
 
 ---
 
 ## 🖥 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
@@ -31,6 +33,7 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 ---
 
 ## ⚙️ Technologies & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
@@ -47,6 +50,7 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 ---
 
 ## 📌 Featured Projects
+
 <p align="center">
   <a href="https://github.com/alimp/meymed">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alimhmdpur&repo=meymed&theme=tokyonight" />
@@ -59,17 +63,21 @@ Currently leveling up my **Laravel skills** and exploring **Go** & **Python** fo
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&theme=tokyonight" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=alimhmdpur&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
 <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alimhmdpur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alimhmdpur&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alimhmdpur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+  <img alt="alimhmdpur's Github Stats" src="https://alimhmdpur-github-readme-stats.vercel.app/api/?username=alimhmdpur&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="alimhmdpur's Top Languages" src="https://alimhmdpur-github-readme-stats.vercel.app/api/top-langs/?username=alimhmdpur&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </p>
 
 ---
 
 ## 🌐 Connect
+
 <p align="center">
   <a href="https://linkedin.com/in/ali-mhmdpur-73a428269">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
